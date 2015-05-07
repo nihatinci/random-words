@@ -32,7 +32,7 @@ class GameController extends CController
 	public function actionPlay()
 	{
 		static $levels=array(
-			'10'=>'Easy game; you are allowed 10 misses.',
+			'10'=>'Easy game ama ananin amini gorursun; you are allowed 10 misses.',
 			'5'=>'Medium game; you are allowed 5 misses.',
 			'3'=>'Hard game; you are allowed 3 misses.',
 		);
